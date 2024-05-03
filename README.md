@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanalkumars
 - 👀 I’m interested in FULL STACK development
-- 🌱 I’m currently focused on nextjs and typeScript
+- 🌱 I’m currently focused on nextjs
 - 💞️ I’m looking to collaborate on Mern stack projects
 - 📫  to reach me sanalskumar126@gmail.com
 
