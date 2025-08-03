@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanalkumars
 - 👀 I’m interested in FULL STACK Development
-- 🌱 I’m currently focused on  Go && NextJs
+- 🌱 I’m currently focused on  Python + MERN
 - 💞️ I’m working on Mern stack projects
 - 📫  to reach me sanalskumar126@gmail.com
 
