@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULL STACK Development
 - 🌱 I’m currently focused on   Agentic AI
 - 💞️ I’m working on Mern stack , python , Go lang based projects
-- 📫  to reach me sanalskumar126@gmail.com
+- 📫  to reach me sanalskumar126@gmail.com.
 
 <!---
 sanalkumars/sanalkumars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
