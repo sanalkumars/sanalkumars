@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanalkumars
-- 👀 I’m interested in FULL STACK Development
-- 🌱 I’m currently focused on   Agentic AI
+- 👀 I’m interested in FULL STACK @ AI Development
+- 🌱 I’m currently focused on   Gen-AI & Agentic AI
 - 💞️ I’m working on Mern stack , python , Go lang based projects
 - 📫  to reach me sanalskumar126@gmail.com.
 
